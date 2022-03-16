@@ -1,0 +1,5 @@
+v1=int(input('enter '))
+v2=int(input('enter '))
+v3=int(input('enter '))
+output=(v1*v2)+(v2*v3)
+print(output)
